@@ -1,0 +1,10 @@
+{
+    "name": "nodetest",
+    "version": "1.0.0",
+    "description": "testing circleci - just a test",
+    "main": "index.js",
+    "author": "sujasree",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {}
+}

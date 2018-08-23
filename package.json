@@ -5,9 +5,13 @@
     "main": "index.js",
     "author": "sujasree",
     "license": "ISC",
-    "devDependencies": {},
+    "devDependencies": {
+        "chai": "~2.3.0",
+        "grunt": "^1.0.3",
+        "load-grunt-tasks": "^4.0.0"
+    },
     "dependencies": {},
     "scripts": {
-        "test": "echo \"Sujasree did not add any tests...\" && exit 0"
-      }
+        "test": "grunt test"
+    }
 }

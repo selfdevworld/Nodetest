@@ -6,5 +6,8 @@
     "author": "sujasree",
     "license": "ISC",
     "devDependencies": {},
-    "dependencies": {}
+    "dependencies": {},
+    "scripts": {
+        "test": "echo \"Sujasree did not add any tests...\" && exit 0"
+      }
 }
